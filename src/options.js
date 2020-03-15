@@ -5,5 +5,5 @@ tmiOptions = {
         reconnect: true
     },
     identity: ttvauth,
-    channels: ["channelname"]
+    channels: ["diverdragoon"]
 }
