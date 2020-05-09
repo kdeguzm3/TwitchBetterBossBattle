@@ -1,0 +1,27 @@
+{
+  "name": "twitchboss",
+  "version": "1.0.0",
+  "description": "Building a better Boss Battle with overlay feedback for Twitch streams",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdeguzm3/TwitchBetterBossBattle.git"
+  },
+  "keywords": [
+    "twitch",
+    "minigame"
+  ],
+  "author": "DiverDragoon@twitch.tv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdeguzm3/TwitchBetterBossBattle/issues"
+  },
+  "homepage": "https://github.com/kdeguzm3/TwitchBetterBossBattle#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  }
+}
